@@ -1,4 +1,4 @@
-package db;
+package jdbc3.db;
 
 import java.io.Serial;
 
