@@ -1,4 +1,4 @@
-package jdbc4.db;
+package jdbc5.db;
 
 import java.io.Serial;
 
