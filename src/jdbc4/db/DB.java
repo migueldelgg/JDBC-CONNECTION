@@ -1,4 +1,4 @@
-package jdbc3.db;
+package jdbc4.db;
 
 import java.io.FileInputStream;
 import java.io.IOException;
